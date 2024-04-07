@@ -11,3 +11,5 @@ def adv(x):
             print('Tente novamente, o numero eh menor!')
 
     print(f'Parabens! Voce acertou, o numero eh {random_number}!')
+
+adv(100)
